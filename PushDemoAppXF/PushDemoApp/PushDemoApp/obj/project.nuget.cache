@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "22RkS2Xp1huxAP2XikYBqKjr3PjGImQgxxFgZkYjr0PArn+GUVbWZ9U2AtZC04CB8Jt4TdHNhm7gx0CzXxpGjw==",
+  "success": true,
+  "projectFilePath": "/Users/ronaldobutrus/Documents/SoftwareVideos/PushNotifications/PushDemoAppXF/PushDemoApp/PushDemoApp/PushDemoApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/ronaldobutrus/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/ronaldobutrus/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/ronaldobutrus/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/ronaldobutrus/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/ronaldobutrus/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/ronaldobutrus/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

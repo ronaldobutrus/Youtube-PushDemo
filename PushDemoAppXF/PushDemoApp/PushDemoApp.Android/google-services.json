@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "387720197872",
+    "project_id": "pushdemoapp-182f4",
+    "storage_bucket": "pushdemoapp-182f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387720197872:android:c6c163b8689037c5b13435",
+        "android_client_info": {
+          "package_name": "com.ronaldobutrus.pushdemoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387720197872-el5em3q7gl34js0pn8tf66nmguj6i6r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKfG5I8KIbVCdoc3j4zCS1QUwLUOxtvHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387720197872-el5em3q7gl34js0pn8tf66nmguj6i6r0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "h7gwpSwu/gsDdLAqEfRJVln34HL4UTjJY0BFg569McvPXtpE9DfedBm7AJqYS+RNa//b+jqPmKXeEShWN0YDbw==",
+  "success": true,
+  "projectFilePath": "/Users/ronaldobutrus/Documents/SoftwareVideos/PushNotifications/PushDemoAPI/PushDemoAPI/PushDemoAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/ronaldobutrus/.nuget/packages/microsoft.azure.notificationhubs/4.1.0/microsoft.azure.notificationhubs.4.1.0.nupkg.sha512",
+    "/Users/ronaldobutrus/.nuget/packages/microsoft.extensions.caching.abstractions/3.1.8/microsoft.extensions.caching.abstractions.3.1.8.nupkg.sha512",
+    "/Users/ronaldobutrus/.nuget/packages/microsoft.extensions.caching.memory/3.1.8/microsoft.extensions.caching.memory.3.1.8.nupkg.sha512",
+    "/Users/ronaldobutrus/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.8/microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512",
+    "/Users/ronaldobutrus/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.8/microsoft.extensions.logging.abstractions.3.1.8.nupkg.sha512",
+    "/Users/ronaldobutrus/.nuget/packages/microsoft.extensions.options/3.1.8/microsoft.extensions.options.3.1.8.nupkg.sha512",
+    "/Users/ronaldobutrus/.nuget/packages/microsoft.extensions.primitives/3.1.8/microsoft.extensions.primitives.3.1.8.nupkg.sha512",
+    "/Users/ronaldobutrus/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

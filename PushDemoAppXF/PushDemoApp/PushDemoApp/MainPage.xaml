@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PushDemoApp.MainPage">
+
+    <StackLayout VerticalOptions="EndAndExpand"
+                 HorizontalOptions="FillAndExpand"
+                 Padding="20,40">
+        <Button x:Name="RegisterButton"
+                Text="Register"
+                Clicked="RegisterButton_Clicked" />
+        <Button x:Name="DeregisterButton"
+                Text="Deregister"
+                Clicked="DeregisterButton_Clicked" />
+    </StackLayout>
+
+</ContentPage>

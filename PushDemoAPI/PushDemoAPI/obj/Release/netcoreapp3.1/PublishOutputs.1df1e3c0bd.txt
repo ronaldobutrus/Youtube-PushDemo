@@ -1,0 +1,14 @@
+/Users/ronaldobutrus/Documents/SoftwareVideos/PushNotifications/PushDemoAPI/PushDemoAPI/obj/Release/netcoreapp3.1/PubTmp/Out/appsettings.Development.json
+/Users/ronaldobutrus/Documents/SoftwareVideos/PushNotifications/PushDemoAPI/PushDemoAPI/obj/Release/netcoreapp3.1/PubTmp/Out/appsettings.json
+/Users/ronaldobutrus/Documents/SoftwareVideos/PushNotifications/PushDemoAPI/PushDemoAPI/obj/Release/netcoreapp3.1/PubTmp/Out/PushDemoAPI.dll
+/Users/ronaldobutrus/Documents/SoftwareVideos/PushNotifications/PushDemoAPI/PushDemoAPI/obj/Release/netcoreapp3.1/PubTmp/Out/PushDemoAPI.deps.json
+/Users/ronaldobutrus/Documents/SoftwareVideos/PushNotifications/PushDemoAPI/PushDemoAPI/obj/Release/netcoreapp3.1/PubTmp/Out/PushDemoAPI.runtimeconfig.json
+/Users/ronaldobutrus/Documents/SoftwareVideos/PushNotifications/PushDemoAPI/PushDemoAPI/obj/Release/netcoreapp3.1/PubTmp/Out/PushDemoAPI.pdb
+/Users/ronaldobutrus/Documents/SoftwareVideos/PushNotifications/PushDemoAPI/PushDemoAPI/obj/Release/netcoreapp3.1/PubTmp/Out/Microsoft.Azure.NotificationHubs.dll
+/Users/ronaldobutrus/Documents/SoftwareVideos/PushNotifications/PushDemoAPI/PushDemoAPI/obj/Release/netcoreapp3.1/PubTmp/Out/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/ronaldobutrus/Documents/SoftwareVideos/PushNotifications/PushDemoAPI/PushDemoAPI/obj/Release/netcoreapp3.1/PubTmp/Out/Microsoft.Extensions.Caching.Memory.dll
+/Users/ronaldobutrus/Documents/SoftwareVideos/PushNotifications/PushDemoAPI/PushDemoAPI/obj/Release/netcoreapp3.1/PubTmp/Out/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/ronaldobutrus/Documents/SoftwareVideos/PushNotifications/PushDemoAPI/PushDemoAPI/obj/Release/netcoreapp3.1/PubTmp/Out/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/ronaldobutrus/Documents/SoftwareVideos/PushNotifications/PushDemoAPI/PushDemoAPI/obj/Release/netcoreapp3.1/PubTmp/Out/Microsoft.Extensions.Options.dll
+/Users/ronaldobutrus/Documents/SoftwareVideos/PushNotifications/PushDemoAPI/PushDemoAPI/obj/Release/netcoreapp3.1/PubTmp/Out/Microsoft.Extensions.Primitives.dll
+/Users/ronaldobutrus/Documents/SoftwareVideos/PushNotifications/PushDemoAPI/PushDemoAPI/obj/Release/netcoreapp3.1/PubTmp/Out/Newtonsoft.Json.dll
