@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <AndroidManifestMerger>manifestmerger.jar</AndroidManifestMerger>
+  </PropertyGroup>  
+  
+  <ItemGroup>
+    <ProguardConfiguration Include="$(MSBuildThisFileDirectory)..\..\proguard\MonoAndroid90\proguard.txt" />
+  </ItemGroup>
+  <PropertyGroup>
+    <AndroidManifestMerger>manifestmerger.jar</AndroidManifestMerger>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <AndroidManifestMerger>manifestmerger.jar</AndroidManifestMerger>
+  </PropertyGroup>  
+  <PropertyGroup>
+    <AndroidFragmentType>AndroidX.Fragment.App.Fragment</AndroidFragmentType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <XamarinBuildRestoreResources Include="_XbdRestoreItems_firebaseencodersjson_17_1_0" />
+  </ItemGroup>
+  <Target Name="_XbdRestoreItems_firebaseencodersjson_17_1_0">
+    <ItemGroup>
+      <XamarinBuildDownload Include="firebaseencodersjson-17.1.0">
+        <Url>https://dl.google.com/dl/android/maven2/com/google/firebase/firebase-encoders-json/17.1.0/firebase-encoders-json-17.1.0.aar</Url>
+        <ToFile>firebaseencodersjson-17.1.0.aar</ToFile>
+        <Kind>Uncompressed</Kind>
+        <Sha256>8295c755bcadc87a2aaee5b9e568f27fd138fd45ff1159a8ee747cf4c3a38d85</Sha256>
+      </XamarinBuildDownload>
+    </ItemGroup>
+
+
+    <ItemGroup>
+     <XamarinBuildDownloadAndroidAarLibrary Include="$(XamarinBuildDownloadDir)firebaseencodersjson-17.1.0\firebaseencodersjson-17.1.0.aar" />
+      <XamarinBuildDownloadAndroidAarLibrary Include="$(XamarinBuildDownloadDir)firebaseencodersjson-17.1.0\firebaseencodersjson-17.1.0.aar" />
+    </ItemGroup>
+  </Target>
+
+</Project>

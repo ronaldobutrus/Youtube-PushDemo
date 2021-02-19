@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <AndroidManifestMerger>manifestmerger.jar</AndroidManifestMerger>
+  </PropertyGroup>  
+  
+  <ItemGroup>
+    <ProguardConfiguration Include="$(MSBuildThisFileDirectory)..\..\proguard\MonoAndroid90\proguard.txt" />
+  </ItemGroup>
+  <PropertyGroup>
+    <AndroidManifestMerger>manifestmerger.jar</AndroidManifestMerger>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <AndroidManifestMerger>manifestmerger.jar</AndroidManifestMerger>
+  </PropertyGroup>  
+  <PropertyGroup>
+    <AndroidFragmentType>AndroidX.Fragment.App.Fragment</AndroidFragmentType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <XamarinBuildRestoreResources Include="_XbdRestoreItems_firebasemessaging_21_0_1" />
+  </ItemGroup>
+  <Target Name="_XbdRestoreItems_firebasemessaging_21_0_1">
+    <ItemGroup>
+      <XamarinBuildDownload Include="firebasemessaging-21.0.1">
+        <Url>https://dl.google.com/dl/android/maven2/com/google/firebase/firebase-messaging/21.0.1/firebase-messaging-21.0.1.aar</Url>
+        <ToFile>firebasemessaging-21.0.1.aar</ToFile>
+        <Kind>Uncompressed</Kind>
+        <Sha256>6217d4a52419348002804e1043b224adb71d63010dd3c05c635ecf7f508a33b1</Sha256>
+      </XamarinBuildDownload>
+    </ItemGroup>
+
+
+    <ItemGroup>
+     <XamarinBuildDownloadAndroidAarLibrary Include="$(XamarinBuildDownloadDir)firebasemessaging-21.0.1\firebasemessaging-21.0.1.aar" />
+      <XamarinBuildDownloadAndroidAarLibrary Include="$(XamarinBuildDownloadDir)firebasemessaging-21.0.1\firebasemessaging-21.0.1.aar" />
+    </ItemGroup>
+  </Target>
+
+</Project>

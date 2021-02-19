@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{92E6AB7F-1EBC-4334-8DE7-A9124D4B76D0}|Default">
+  <MonoDevelop.Ide.ItemProperties.PushDemoAppXN.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.emulator-5554" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/ViewController.cs">
+    <Files>
+      <File FileName="iOS/ViewController.cs" Line="43" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PushDemoAppXN" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.ItemProperties.PushDemoAppXN.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.00008020-000A15502643002E" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

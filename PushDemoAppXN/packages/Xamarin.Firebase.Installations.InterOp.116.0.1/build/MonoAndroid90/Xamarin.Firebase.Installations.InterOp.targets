@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <AndroidManifestMerger>manifestmerger.jar</AndroidManifestMerger>
+  </PropertyGroup>  
+  
+  <ItemGroup>
+  </ItemGroup>
+  <PropertyGroup>
+    <AndroidManifestMerger>manifestmerger.jar</AndroidManifestMerger>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <AndroidManifestMerger>manifestmerger.jar</AndroidManifestMerger>
+  </PropertyGroup>  
+  <PropertyGroup>
+    <AndroidFragmentType>AndroidX.Fragment.App.Fragment</AndroidFragmentType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <XamarinBuildRestoreResources Include="_XbdRestoreItems_firebaseinstallationsinterop_16_0_1" />
+  </ItemGroup>
+  <Target Name="_XbdRestoreItems_firebaseinstallationsinterop_16_0_1">
+    <ItemGroup>
+      <XamarinBuildDownload Include="firebaseinstallationsinterop-16.0.1">
+        <Url>https://dl.google.com/dl/android/maven2/com/google/firebase/firebase-installations-interop/16.0.1/firebase-installations-interop-16.0.1.aar</Url>
+        <ToFile>firebaseinstallationsinterop-16.0.1.aar</ToFile>
+        <Kind>Uncompressed</Kind>
+        <Sha256>b792e522d912a5eba48d1b6185b5486ab8c4b5a1d5a2783dc91e27333d1ffc3c</Sha256>
+      </XamarinBuildDownload>
+    </ItemGroup>
+
+
+    <ItemGroup>
+     <XamarinBuildDownloadAndroidAarLibrary Include="$(XamarinBuildDownloadDir)firebaseinstallationsinterop-16.0.1\firebaseinstallationsinterop-16.0.1.aar" />
+      <XamarinBuildDownloadAndroidAarLibrary Include="$(XamarinBuildDownloadDir)firebaseinstallationsinterop-16.0.1\firebaseinstallationsinterop-16.0.1.aar" />
+    </ItemGroup>
+  </Target>
+
+</Project>

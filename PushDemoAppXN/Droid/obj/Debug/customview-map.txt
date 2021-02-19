@@ -1,0 +1,11 @@
+Button;obj/Debug/res/layout/main.xml
+cache-path;/Users/ronaldobutrus/Documents/SoftwareVideos/PushNotifications/PushDemoAppXN/Droid/obj/Debug/lp/31/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+EditText;obj/Debug/res/layout/main.xml
+external-cache-path;/Users/ronaldobutrus/Documents/SoftwareVideos/PushNotifications/PushDemoAppXN/Droid/obj/Debug/lp/31/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+external-path;/Users/ronaldobutrus/Documents/SoftwareVideos/PushNotifications/PushDemoAppXN/Droid/obj/Debug/lp/31/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+LinearLayout;obj/Debug/res/layout/main.xml
+paths;/Users/ronaldobutrus/Documents/SoftwareVideos/PushNotifications/PushDemoAppXN/Droid/obj/Debug/lp/31/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+resources;/Users/ronaldobutrus/Documents/SoftwareVideos/PushNotifications/PushDemoAppXN/Droid/obj/Debug/googsvcsjson/values/goog_svcs_json.xml
+resources;obj/Debug/res/values/strings.xml
+string;/Users/ronaldobutrus/Documents/SoftwareVideos/PushNotifications/PushDemoAppXN/Droid/obj/Debug/googsvcsjson/values/goog_svcs_json.xml
+string;obj/Debug/res/values/strings.xml

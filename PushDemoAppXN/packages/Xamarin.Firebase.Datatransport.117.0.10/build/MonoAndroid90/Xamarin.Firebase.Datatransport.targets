@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <AndroidManifestMerger>manifestmerger.jar</AndroidManifestMerger>
+  </PropertyGroup>  
+  
+  <ItemGroup>
+  </ItemGroup>
+  <PropertyGroup>
+    <AndroidManifestMerger>manifestmerger.jar</AndroidManifestMerger>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <AndroidManifestMerger>manifestmerger.jar</AndroidManifestMerger>
+  </PropertyGroup>  
+  <PropertyGroup>
+    <AndroidFragmentType>AndroidX.Fragment.App.Fragment</AndroidFragmentType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <XamarinBuildRestoreResources Include="_XbdRestoreItems_firebasedatatransport_17_0_10" />
+  </ItemGroup>
+  <Target Name="_XbdRestoreItems_firebasedatatransport_17_0_10">
+    <ItemGroup>
+      <XamarinBuildDownload Include="firebasedatatransport-17.0.10">
+        <Url>https://dl.google.com/dl/android/maven2/com/google/firebase/firebase-datatransport/17.0.10/firebase-datatransport-17.0.10.aar</Url>
+        <ToFile>firebasedatatransport-17.0.10.aar</ToFile>
+        <Kind>Uncompressed</Kind>
+        <Sha256>64ffee3612bcedb69aacce3f30f20df990684997759f856a3a9b2b21126a3fa5</Sha256>
+      </XamarinBuildDownload>
+    </ItemGroup>
+
+
+    <ItemGroup>
+     <XamarinBuildDownloadAndroidAarLibrary Include="$(XamarinBuildDownloadDir)firebasedatatransport-17.0.10\firebasedatatransport-17.0.10.aar" />
+      <XamarinBuildDownloadAndroidAarLibrary Include="$(XamarinBuildDownloadDir)firebasedatatransport-17.0.10\firebasedatatransport-17.0.10.aar" />
+    </ItemGroup>
+  </Target>
+
+</Project>
