@@ -1,24 +1,28 @@
-﻿<Properties StartupConfiguration="{FC52ADF4-1366-43E8-BC7B-0907CDDBDCD2}|Default">
+﻿<Properties StartupConfiguration="{BB56A3EF-0F97-424F-9881-D15BBA51E14C}|Default">
   <MonoDevelop.Ide.ItemProperties.PushDemoApp.Android TriggeredFromHotReload="False" PreferredExecutionTarget="Android.SelectDevice" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="PushDemoApp.iOS/AppDelegate.cs">
+    <Files>
+      <File FileName="PushDemoApp.iOS/AppDelegate.cs" Line="76" Column="20" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="PushDemoApp" expanded="True">
-            <Node name="PushDemoApp.Android" expanded="True">
-              <Node name="MainActivity.cs" selected="True" />
+            <Node name="PushDemoApp" expanded="True" />
+            <Node name="PushDemoApp.Android" expanded="True" />
+            <Node name="PushDemoApp.iOS" expanded="True">
+              <Node name="AppDelegate.cs" selected="True" />
             </Node>
-            <Node name="PushDemoApp.iOS" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.PushDemoApp.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.746E0E04-1F75-43FC-AAF8-C1C6BF8B0784" />
+  <MonoDevelop.Ide.ItemProperties.PushDemoApp.iOS automaticSigning="False" TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.00008020-000A15502643002E" />
 </Properties>
